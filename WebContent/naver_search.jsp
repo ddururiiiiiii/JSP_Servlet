@@ -11,7 +11,7 @@
 	<form
 		action="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8"
 		method="get">
-		네이버 검색 : <input type="text" name="query" />
+		네이버 검색 고고 : <input type="text" name="query" />
 		<input type="submit" value="검색">
 </body> 
 </html>
